@@ -24,7 +24,7 @@ Abra o arquivo index.html no seu navegador para visualizar o portfólio.
 Para personalizar o conteúdo, edite os arquivos HTML, CSS e JavaScript conforme necessário.
 
 ## 👥 Como Contribuir
-Se você deseja contribuir com este projeto, leia primeiro as regras de contribuição.
+Se você deseja contribuir com este projeto, **leia primeiro as [regras de contribuição](./CONTRIBUTING.md)**.
 
 Lá você encontrará orientações sobre:
 
