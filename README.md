@@ -23,8 +23,16 @@ git clone https://github.com/Moosy-Joao/MeuPortFolio.git
 Abra o arquivo index.html no seu navegador para visualizar o portfólio.
 Para personalizar o conteúdo, edite os arquivos HTML, CSS e JavaScript conforme necessário.
 
-## Contribuição
-Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou correções, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+## 👥 Como Contribuir
+Se você deseja contribuir com este projeto, **leia primeiro as [regras de contribuição](./CONTRIBUTING.md)**.
+
+Lá você encontrará orientações sobre:
+
+Como criar novas branches (feature/<nome> e bugfix/<nome>);
+Padrões de commits;
+Processo de Pull Request;
+Outras boas práticas de colaboração.
+✅ Seguir essas diretrizes ajuda a manter o projeto organizado e facilita o trabalho em equipe. Obrigado por colaborar!
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
